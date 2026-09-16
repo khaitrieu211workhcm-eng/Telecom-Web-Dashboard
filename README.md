@@ -25,3 +25,10 @@ Trong việc vận hành mạng viễn thông, việc xử lý các tập dữ l
 - app.py              # Chương trình chính (Giao diện Streamlit Dashboard)
 - utils.py            # Thư viện hàm hỗ trợ xử lý ETL, làm sạch dữ liệu và tương tác SQLite
 - Input/              # Thư mục lưu trữ dữ liệu log mẫu phục vụ kiểm thử (Input - Table.xlsx, network_kpi_report.csv)
+
+**IV. HƯỚNG DẪN SỬ DỤNG MODE LOCAL**
+1. Ctrl + ~
+2. Lần lượt sử dụng:
+- py -m pip install -r requirements.txt
+- py -m streamlit run app.py
+
