@@ -26,9 +26,18 @@ Trong việc vận hành mạng viễn thông, việc xử lý các tập dữ l
 - utils.py            # Thư viện hàm hỗ trợ xử lý ETL, làm sạch dữ liệu và tương tác SQLite
 - Input/              # Thư mục lưu trữ dữ liệu log mẫu phục vụ kiểm thử (Input - Table.xlsx, network_kpi_report.csv)
 
-**IV. HƯỚNG DẪN SỬ DỤNG MODE LOCAL**
+**IV. HƯỚNG DẪN SỬ DỤNG LOCAL**
+
 1. Ctrl + ~
-2. Lần lượt sử dụng:
-- py -m pip install -r requirements.txt
-- py -m streamlit run app.py
+2.  Sử dụng lần lượt: py -m pip install -r requirements.txt và py -m streamlit run app.py
+<img width="957" height="407" alt="Visual Code Studio 2022" src="https://github.com/user-attachments/assets/cc177860-39cf-47bb-929f-7c9dfdafafaf" />
+
+<img width="1894" height="955" alt="image" src="https://github.com/user-attachments/assets/df8b5760-dc8f-4c8a-95ad-038ae0df1e03" />
+
+<img width="1920" height="865" alt="image" src="https://github.com/user-attachments/assets/9a361eb1-2c70-40c8-8c19-a1c04e4c7158" />
+
+<img width="1909" height="865" alt="image" src="https://github.com/user-attachments/assets/09c4b32b-6e7b-4542-8cc1-d5aac56a82a3" />
+
+
+
 
