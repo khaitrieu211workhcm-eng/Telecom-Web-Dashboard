@@ -1,0 +1,19 @@
+﻿# TV dựng giao diện web (Web Dashboard)
+# Khóa 1.35.0 để cố định các API về Session State và Layout, tránh lỗi vỡ giao diện Dashboard khi chạy trên môi trường khác
+streamlit==1.35.0
+
+# TV xử lý, làm sạch và phân tích cấu trúc dữ liệu dạng bảng
+# Khóa 2.2.0 nhằm tận dụng các cải tiến về tốc độ xử lý chuỗi và tối ưu hóa bộ nhớ cho các tập dữ liệu lớn
+pandas==2.2.0
+
+# TV trực quan hóa dữ liệu (Sử dụng cho biểu đồ chuỗi thời gian và KPI)
+# Khóa 5.22.0 để giữ nguyên các hàm render biểu đồ không bị thay đổi cú pháp
+plotly==5.22.0
+
+# TV hỗ trợ Python đọc và ghi các định dạng (.xlsx)
+# Khóa 3.1.2 đảm bảo tính tương thích ổn định khi phân tích cấu trúc các ô dữ liệu đầu vào
+openpyxl==3.1.2
+
+# TV tính và xử lý mảng số học đa chiều 
+# Khóa 1.26.4 giữ sự đồng nhất về kiểu dữ liệu mảng số học nền tảng, tránh sai lệch kết quả trong lọc ngưỡng
+numpy==1.26.4
