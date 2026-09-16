@@ -24,4 +24,4 @@ Trong việc vận hành mạng viễn thông, việc xử lý các tập dữ l
 - requirements.txt    # Danh sách các thư viện Python phụ thuộc
 - app.py              # Chương trình chính (Giao diện Streamlit Dashboard)
 - utils.py            # Thư viện hàm hỗ trợ xử lý ETL, làm sạch dữ liệu và tương tác SQLite
-- Input/              # Thư mục lưu trữ dữ liệu log mẫu phục vụ kiểm thử (Input - Table.xlsx,network_kpi_report.csv)
+- Input/              # Thư mục lưu trữ dữ liệu log mẫu phục vụ kiểm thử (Input - Table.xlsx, network_kpi_report.csv)
